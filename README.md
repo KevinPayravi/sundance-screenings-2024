@@ -9,5 +9,10 @@ The script outputs two CSV files at the end of execution:
   * Note that the individual short films that are within an encompassing program (e.g. the [Animated Short Film Program](https://festival.sundance.org/program/short-info/656e245aec4ed04276af2941)) are not parsed.
 * `output-screenings-YYYY-MM-DD-HH:MM:SS.csv`, a list of in-person screenings. Includes screening type (premiere vs screening), time, venue, and city.
 
-## Log example
+## Screenshots
+### Log
 <img width="800" alt="Sample output of this script showing scraped films" src="https://github.com/KevinPayravi/sundance-screenings-2024/assets/7636606/d6bd9c66-a5c8-4936-a502-db34e5261a3b">
+
+### Spreadsheets
+<img width="800" alt="Ouput spreadsheet with screening data" src="https://github.com/KevinPayravi/sundance-screenings-2024/assets/7636606/434c1aff-3040-418a-96ae-be5a78ab5148">
+<img width="800" alt="Ouput spreadsheet with film data" src="https://github.com/KevinPayravi/sundance-screenings-2024/assets/7636606/7b6d4d26-eafe-4da0-9a6d-c32ce703f241">
